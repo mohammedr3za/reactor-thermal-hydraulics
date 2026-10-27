@@ -1,0 +1,13 @@
+# created by running the scripts and notebooks
+results/
+notebooks/figures/
+
+# Python / Jupyter
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store

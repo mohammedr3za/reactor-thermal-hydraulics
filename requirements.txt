@@ -1,0 +1,14 @@
+# the modules and notebooks
+numpy>=1.24
+matplotlib>=3.7
+iapws>=1.5
+# tests
+pytest>=7.0
+# to open the notebooks locally
+jupyterlab>=4.0
+# src/run_notebooks.py
+nbclient>=0.7
+nbformat>=5.7
+ipykernel>=6.0
+# src/build_report.py (also needs pandoc: https://pandoc.org/installing.html)
+python-docx>=1.0
